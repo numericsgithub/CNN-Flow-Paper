@@ -1,0 +1,51 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.ALL;
+use ieee.numeric_std.all;
+
+LIBRARY work;
+USE work.ALL;
+USE work.Components.ALL;
+
+entity conv22_bias_add_constant_memory is
+    generic
+    (
+        XI_WIDTH        	          : natural := 8;
+        ARRAY_SIZE                    : natural := 256;
+        WORDS_PER_ADDR                : natural := 2
+    );
+    Port (
+        clk : in std_logic;
+        data_index : in unsigned(bits(ARRAY_SIZE-1)-1 downto 0);
+    
+        dout1    : out std_logic_vector((XI_WIDTH-1) downto 0); 
+        dout2    : out std_logic_vector((XI_WIDTH-1) downto 0)
+    );
+end conv22_bias_add_constant_memory;
+
+architecture Behavioral of conv22_bias_add_constant_memory is
+
+
+    attribute KEEP_HIERARCHY : string;
+    attribute KEEP_HIERARCHY of conv22_bias_add_constant_memory : entity is "yes";
+
+    signal rom_data_out_signal : std_logic_vector((XI_WIDTH * WORDS_PER_ADDR)-1 downto 0);
+
+begin
+
+    ROM_BLOCK: entity conv22_bias_add_constant_memoryROM generic map
+    (
+        XI_WIDTH        	=> XI_WIDTH,
+        ARRAY_SIZE          => ARRAY_SIZE,
+        WORDS_PER_ADDR      => WORDS_PER_ADDR
+    )
+    port map
+    (
+        clk => clk,
+        data_index => data_index,
+        dout => rom_data_out_signal
+    );
+
+
+    dout1 <= rom_data_out_signal((XI_WIDTH*2)-1 downto (XI_WIDTH*1));
+    dout2 <= rom_data_out_signal((XI_WIDTH*1)-1 downto (XI_WIDTH*0));
+end Behavioral;

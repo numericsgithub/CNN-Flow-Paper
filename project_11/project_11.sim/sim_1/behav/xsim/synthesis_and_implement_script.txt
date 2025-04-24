@@ -1,0 +1,21 @@
+open_project "C:\\Users\\fdai0217\\Documents\\vivado\\project_11\\project_11.xpr"
+puts "Done opening project"
+update_compile_order -fileset sources_1   
+reset_run synth_1   
+launch_runs synth_1 -jobs 16   
+wait_on_runs synth_1
+puts "Done synth"
+open_run synth_1
+opt_design 
+puts "Done opt_design"
+reset_run impl_1 -quiet
+launch_runs impl_1 -jobs 16
+wait_on_runs impl_1
+puts "Implementation done"
+open_run impl_1
+puts "Opened implementation"
+report_utilization -file util_report.txt
+puts "Done util report"
+report_utilization -name utilization_1
+report_utilization -hierarchical -file example.txt -hierarchical_depth 4 -quiet
+exit

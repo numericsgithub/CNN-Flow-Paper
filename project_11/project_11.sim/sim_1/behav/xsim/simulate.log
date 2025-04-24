@@ -1,0 +1,229 @@
+Time resolution is 1 ps
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv1.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv1/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv1_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv2.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv2/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv2_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv3.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv3/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv3_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv4.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv4/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv4_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv5.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv5/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv5_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv6.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv6/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv6_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv7.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv7/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv7_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv8.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv8/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv8_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv9.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv9/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv9_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv10.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv10/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv10_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv11.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv11/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv11_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv12.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv12/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv12_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv13.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv13/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv13_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv14.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv14/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv14_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv15.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv15/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv15_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv16.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv16/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv16_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv17.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv17/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv17_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv18.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv18/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv18_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv19.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv19/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv19_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv20.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv20/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv20_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv21.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv21/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv21_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv22.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv22/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv22_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv23.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv23/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv23_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv24.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv24/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv24_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv25.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv25/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv25_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv26.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv26/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv26_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR conv27.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv27/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv27_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR poolavg.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/poolavg/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/poolavg_sim_validator.vhdl
+Note: OUTPUT VALIDATION IS ACTIVE FOR softmax.
+Time: 1505 ns  Iteration: 1  Process: /examplemodel_sim/dut/softmax/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/softmax_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv1.
+Time: 6285 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv1/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv1_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv2.
+Time: 10975 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv2/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv2_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv3.
+Time: 11235 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv3/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv3_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv4.
+Time: 20435 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv4/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv4_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv5.
+Time: 20755 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv5/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv5_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv6.
+Time: 30035 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv6/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv6_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv7.
+Time: 30415 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv7/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv7_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv8.
+Time: 48815 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv8/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv8_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv9.
+Time: 49615 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv9/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv9_sim_validator.vhdl
+Note: INFO: 5000/130717
+Time: 51515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv10.
+Time: 68335 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv10/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv10_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv11.
+Time: 69195 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv11/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv11_sim_validator.vhdl
+Note: INFO: 10000/130717
+Time: 101515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv12.
+Time: 106475 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv12/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv12_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv13.
+Time: 109195 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv13/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv13_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv14.
+Time: 147755 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv14/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv14_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv15.
+Time: 150535 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv15/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv15_sim_validator.vhdl
+Note: INFO: 15000/130717
+Time: 151515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv16.
+Time: 189095 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv16/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv16_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv17.
+Time: 191875 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv17/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv17_sim_validator.vhdl
+Note: INFO: 20000/130717
+Time: 201515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv18.
+Time: 230435 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv18/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv18_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv19.
+Time: 233215 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv19/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv19_sim_validator.vhdl
+Note: INFO: 25000/130717
+Time: 251515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv20.
+Time: 271775 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv20/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv20_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv21.
+Time: 274555 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv21/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv21_sim_validator.vhdl
+Note: INFO: 30000/130717
+Time: 301515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv22.
+Time: 313115 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv22/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv22_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv23.
+Time: 315895 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv23/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv23_sim_validator.vhdl
+Note: INFO: 35000/130717
+Time: 351515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv24.
+Time: 392855 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv24/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv24_sim_validator.vhdl
+Note: INFO: 40000/130717
+Time: 401515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv25.
+Time: 403255 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv25/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv25_sim_validator.vhdl
+Note: INFO: 45000/130717
+Time: 451515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv26.
+Time: 485335 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv26/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv26_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR conv27.
+Time: 495785 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv27/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv27_sim_validator.vhdl
+Note: INFO: 50000/130717
+Time: 501515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv1.
+Time: 505785 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv1/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv1_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv2.
+Time: 512725 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv2/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv2_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv3.
+Time: 512985 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv3/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv3_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv4.
+Time: 517665 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv4/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv4_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv5.
+Time: 522385 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv5/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv5_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv6.
+Time: 531785 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv6/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv6_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv7.
+Time: 532045 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv7/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv7_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv8.
+Time: 541445 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv8/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv8_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv9.
+Time: 550765 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv9/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv9_sim_validator.vhdl
+Note: INFO: 55000/130717
+Time: 551515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv10.
+Time: 570085 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv10/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv10_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv11.
+Time: 570345 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv11/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv11_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv12.
+Time: 589665 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv12/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv12_sim_validator.vhdl
+Note: INFO: 60000/130717
+Time: 601515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv13.
+Time: 608425 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv13/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv13_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv14.
+Time: 649505 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv14/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv14_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv15.
+Time: 649765 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv15/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv15_sim_validator.vhdl
+Note: INFO: 65000/130717
+Time: 651515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv16.
+Time: 690845 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv16/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv16_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv17.
+Time: 691105 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv17/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv17_sim_validator.vhdl
+Note: INFO: 70000/130717
+Time: 701515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv18.
+Time: 732185 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv18/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv18_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv19.
+Time: 732445 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv19/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv19_sim_validator.vhdl
+Note: INFO: 75000/130717
+Time: 751515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv20.
+Time: 773525 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv20/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv20_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv21.
+Time: 773785 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv21/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv21_sim_validator.vhdl
+Note: INFO: 80000/130717
+Time: 801515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv22.
+Time: 814865 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv22/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv22_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv23.
+Time: 815125 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv23/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv23_sim_validator.vhdl
+Note: INFO: 85000/130717
+Time: 851515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv24.
+Time: 856205 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv24/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv24_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv25.
+Time: 894845 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv25/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv25_sim_validator.vhdl
+Note: INFO: 90000/130717
+Time: 901515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: INFO: 95000/130717
+Time: 951515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv26.
+Time: 987085 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv26/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv26_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR conv27.
+Time: 987335 ns  Iteration: 1  Process: /examplemodel_sim/dut/conv27/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/conv27_sim_validator.vhdl
+Note: GOT FIRST VALID OUTPUT FOR poolavg.
+Time: 987455 ns  Iteration: 1  Process: /examplemodel_sim/dut/poolavg/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/poolavg_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR poolavg.
+Time: 997685 ns  Iteration: 1  Process: /examplemodel_sim/dut/poolavg/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/poolavg_sim_validator.vhdl
+Note: INFO: 100000/130717
+Time: 1001515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: INFO: 105000/130717
+Time: 1051515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: INFO: 110000/130717
+Time: 1101515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: INFO: 115000/130717
+Time: 1151515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: INFO: 120000/130717
+Time: 1201515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: INFO: 125000/130717
+Time: 1251515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: INFO: 130000/130717
+Time: 1301515 ns  Iteration: 0  Process: /examplemodel_sim/stimulus_process  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl
+Note: GOT FIRST VALID OUTPUT FOR softmax.
+Time: 1306455 ns  Iteration: 1  Process: /examplemodel_sim/dut/softmax/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/softmax_sim_validator.vhdl
+Note: GOT LAST VALID OUTPUT FOR softmax.
+Time: 1307695 ns  Iteration: 1  Process: /examplemodel_sim/dut/softmax/simulation_validation/validation_process/validate_outputs  File: /home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sources_1/imports/temp_vhdl/softmax_sim_validator.vhdl
+$finish called at time : 1308685 ns : File "/home/tobi/Desktop/proj11RERE/project_11/project_11.srcs/sim_1/imports/temp_vhdl/examplemodel_sim.vhdl" Line 213
+INFO: xsimkernel Simulation Memory Usage: 5566232 KB (Peak: 5599004 KB), Simulation CPU Usage: 35850710 ms
